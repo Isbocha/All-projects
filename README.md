@@ -14,3 +14,7 @@
 # Модуль "Автоматизация тестирования веб-интерфейсов"
 
 [Домашние работы](all-projects%2FAutomation_of_web_interface_testing%2FAutomation_of_web_interface_testing.md)
+
+# Дипломный проект по профессии «Инженер по тестированию»
+
+[Дипломный проект](https://github.com/Isbocha/QAMID_DIPLOM)
